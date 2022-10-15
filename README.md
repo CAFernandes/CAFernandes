@@ -15,25 +15,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ```Typescript
-class  AboutMe {
-	//in development
-	public getCurrentWorkplace (){
-		return {
-			workplace: 'Uranet/Konecta',
-			position: 'Dev Junior'
-		}
-	}
-	public getDailyKnowledge(){
-		return {
-			languages: ['JavaScript', 'TypeScript','PHP', 'Java'],
-			frameworks: [
-				node: {
-					frontEnd: ['React', 'ReactNative', 'SASS','Vuejs'],
-					backEnd: ['Express', 'Multer']
-	            }
-            ]
-        }
-	}
+class AboutMe {
+  public getCurrentWorkplace() {
+    return {
+      workplace: "Konecta Brasil",
+      position: "Desenvolvedor Pleno",
+    };
+  }
+  public getDailyKnowledge() {
+    return {
+      languages: ["JavaScript", "TypeScript", "PHP"],
+      frameworks: [
+        {
+          node: {
+            frontEnd: ["React", "ReactNative", "SASS", "Vuejs"],
+            backEnd: ["Express", "Multer"],
+          },
+        },
+      ],
+    };
+  }
 }
-export  default  AboutMe
+export default AboutMe;
 ```
