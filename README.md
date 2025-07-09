@@ -1,7 +1,12 @@
 # Hi there, I'm Caio Alberto Fernandes 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+Framework+Creator;Open+Source+Enthusiast;Building+PivotPHP+🚀;The+Evolutionary+PHP+Microframework" alt="Typing SVG" />
+  <h2>Creator of PivotPHP - The Evolutionary PHP Microframework</h2>
+  <p><strong>Evolution over Convention • Structure meets Speed • Zero Configuration</strong></p>
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;PHP+Framework+Creator;Open+Source+Enthusiast;Evolution+over+Convention;Structure+meets+Speed" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -14,13 +19,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on creating modern, efficient solutions for the PHP ecosystem. Currently working on **PivotPHP - The Evolutionary PHP Microframework**, a framework that evolves with the community needs while maintaining the simplicity and elegance of Express.js.
+I'm a passionate developer focused on creating modern, efficient solutions for the PHP ecosystem. Currently working on **PivotPHP - The Evolutionary PHP Microframework**, a framework that represents a paradigm shift in PHP development where structure meets speed.
 
-- 🔭 I'm currently developing **[PivotPHP](https://github.com/PivotPHP/pivotphp-core)** - The Evolutionary PHP Microframework
+- 🔭 I'm currently developing **[PivotPHP](https://github.com/PivotPHP/pivotphp-core)** - Evolution over Convention
 - 🌱 I'm exploring modern PHP practices, PSR standards, and reactive programming
 - 👯 I'm looking to collaborate on open-source PHP projects
 - 💬 Ask me about PHP, microframeworks, API development, and software architecture
-- ⚡ Fun fact: PivotPHP achieves 2.57M ops/sec in CORS operations!
+- ⚡ Fun fact: PivotPHP is 2.9x faster than Slim 4 and 4.6x faster than Lumen!
 
 ## 🛠️ Tech Stack
 
@@ -52,6 +57,8 @@ I'm a passionate developer focused on creating modern, efficient solutions for t
 
 <div align="center">
   <h3>🧬 The Evolutionary PHP Microframework 🧬</h3>
+  <p><strong>Evolution over Convention - Where Structure meets Speed</strong></p>
+  <p><i>PivotPHP represents a paradigm shift in PHP development - rapid adaptation with exceptional performance.</i></p>
   <a href="https://github.com/PivotPHP/pivotphp-core">
     <img src="https://img.shields.io/badge/PivotPHP-The_Evolutionary_PHP_Microframework-2E9EF7?style=for-the-badge&logo=php&logoColor=white" alt="PivotPHP" />
   </a>
@@ -62,88 +69,167 @@ I'm a passionate developer focused on creating modern, efficient solutions for t
   <img src="https://img.shields.io/github/forks/PivotPHP/pivotphp-core?style=social" alt="Forks" />
   <img src="https://img.shields.io/github/license/PivotPHP/pivotphp-core" alt="License" />
   <img src="https://img.shields.io/packagist/v/pivotphp/core" alt="Version" />
+  <img src="https://img.shields.io/badge/PHPStan-Level_9-brightgreen" alt="PHPStan" />
+  <img src="https://img.shields.io/badge/Tests-270+-brightgreen" alt="Tests" />
+</p>
+
+<p align="center">
+  <code>microframework</code> • <code>php</code> • <code>security</code> • <code>api</code> • <code>authentication</code> • <code>cors</code> • <code>router</code> • <code>middleware</code> • <code>express</code> • <code>csrf</code> • <code>xss</code> • <code>jwt</code> • <code>swagger</code> • <code>openapi</code>
 </p>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <strong>🚀 Ultra Rápido</strong><br/>
-        2.57M ops/sec
+        <strong>⚡ Blazing Fast</strong><br/>
+        <code>13.4K req/s</code><br/>
+        <small>0.07ms latency</small>
       </td>
       <td align="center">
-        <strong>🛡️ Seguro</strong><br/>
-        Proteção built-in
+        <strong>🛡️ Security First</strong><br/>
+        <code>CSRF Protected</code><br/>
+        <small>JWT Auth</small>
       </td>
       <td align="center">
-        <strong>📦 PSR Compliant</strong><br/>
-        Standards modernos
+        <strong>📐 Structure meets Speed</strong><br/>
+        <code>Full PSR</code><br/>
+        <small>PSR-7/11/12/14/15</small>
       </td>
       <td align="center">
-        <strong>🧬 Evolutivo</strong><br/>
-        Sempre melhorando
+        <strong>🧬 Evolutionary</strong><br/>
+        <code>Adaptive</code><br/>
+        <small>Grows with you</small>
       </td>
     </tr>
   </table>
 </div>
 
-> 🏆 **PivotPHP - The Evolutionary PHP Microframework** é meu maior projeto open source atualmente, representando a evolução do conceito inicial do Express-PHP para um framework robusto e production-ready.
+> 🏆 **PivotPHP - The Evolutionary PHP Microframework** is my flagship open source project, representing a paradigm shift in PHP development.
 
-> 🧬 **Por que "Evolutionary"?** O PivotPHP não é apenas mais um framework - é uma filosofia de melhoria contínua. Assim como a evolução na natureza, o framework se adapta às necessidades da comunidade PHP, mantendo o que funciona e evoluindo constantemente para atender aos desafios modernos do desenvolvimento web.
+### 🎯 Why PivotPHP?
+
+<table>
+  <tr>
+    <td width="50%">
+      <h4>⚡ Performance Benchmarks</h4>
+      <ul>
+        <li><strong>2.9x faster</strong> than Slim 4</li>
+        <li><strong>4.6x faster</strong> than Lumen</li>
+        <li>Up to <strong>13,374 requests/second</strong></li>
+        <li><strong>0.07ms</strong> average latency</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🚀 Zero Configuration</h4>
+      <ul>
+        <li>Start building immediately</li>
+        <li>No complex setup required</li>
+        <li>No boilerplate code</li>
+        <li>Just <code>composer install</code> and go</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h4>🧪 Battle-Tested</h4>
+      <ul>
+        <li><strong>270+ tests</strong> ensuring reliability</li>
+        <li><strong>PHPStan Level 9</strong> static analysis</li>
+        <li><strong>100% PSR-12</strong> compliant</li>
+        <li>Ideal for concept validation & production</li>
+      </ul>
+    </td>
+    <td width="50%">
+      <h4>🔐 Security by Default</h4>
+      <ul>
+        <li>Built-in CSRF & XSS protection</li>
+        <li>Rate limiting out of the box</li>
+        <li>JWT & API Key authentication</li>
+        <li>Security first, not afterthought</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ### ⚡ Performance Highlights
-- **2.57M ops/sec** in CORS operations
-- **2.27M ops/sec** in Response handling
-- **757K ops/sec** in routing
-- Built-in caching for optimal performance
+- **13,374 requests/second** with average **0.07ms latency**
+- **2.9x faster** than Slim 4, **4.6x faster** than Lumen
+- Optimized routing, caching, and middleware pipeline
+- Built for high-throughput APIs and microservices
 
 ### 🔥 Key Features
-- 🎯 **Express.js-inspired API** - Familiar and intuitive for web developers
-- 🛡️ **Security First** - Built-in middlewares for CSRF, XSS, Rate Limiting, JWT
-- 📦 **PSR Standards** - Full PSR-7, PSR-15, PSR-11 compliance
-- 🔌 **Extensible** - Plugin system with Service Providers and Events
-- 🚀 **ReactPHP Support** - Asynchronous capabilities out of the box
-- 📝 **OpenAPI/Swagger** - Automatic API documentation generation
+- 🎯 **Express.js-inspired API** - Familiar syntax for rapid development
+- 🛡️ **Security First** - CSRF, XSS, Rate Limiting, JWT, API Key protection by default
+- 📦 **Full PSR Compliance** - PSR-7, PSR-11, PSR-12, PSR-14, PSR-15 standards
+- 🔌 **Truly Extensible** - Plugin system, Service Providers, Event System
+- 🚀 **ReactPHP Ready** - Built-in asynchronous capabilities
+- 📝 **Auto Documentation** - OpenAPI/Swagger generation
+- 🧬 **Evolution over Convention** - Adapts to your needs, not the other way around
+- 🧪 **Battle-Tested** - 270+ tests, PHPStan Level 9, 100% code coverage
 
-### 🛤️ Evolution Journey
-**Express-PHP → PivotPHP**: Started as a simple Express.js-inspired prototype and evolved into **"The Evolutionary PHP Microframework"** - a robust, production-ready framework with enterprise features.
+### 🧬 Evolution Journey
+**Express-PHP → PivotPHP**: What started as a simple Express.js-inspired prototype evolved into **"The Evolutionary PHP Microframework"** - where structure meets speed. PivotPHP represents a paradigm shift: frameworks should adapt to your project, not force your project to adapt to them.
+
+### 📚 Learn More
+- 📖 [Complete Documentation](https://github.com/PivotPHP/pivotphp-core/blob/main/docs/index.md)
+- 🚀 [Performance Benchmarks](https://github.com/PivotPHP/pivotphp-core/blob/main/benchmarks)
+- 💡 [Practical Examples](https://github.com/PivotPHP/pivotphp-core/blob/main/examples)
+- 🧪 [Implementation Guides](https://github.com/PivotPHP/pivotphp-core/blob/main/docs/implementations)
+
+### 📊 Real-World Performance
+```
+┌─────────────────┬─────────────┬──────────────┬─────────────┐
+│ Framework       │ Requests/s  │ Latency      │ Comparison  │
+├─────────────────┼─────────────┼──────────────┼─────────────┤
+│ PivotPHP        │ 13,374      │ 0.07ms       │ Baseline    │
+│ Slim 4          │ 4,612       │ 0.22ms       │ 2.9x slower │
+│ Lumen           │ 2,906       │ 0.34ms       │ 4.6x slower │
+└─────────────────┴─────────────┴──────────────┴─────────────┘
+```
 
 ### 📊 PivotPHP Ecosystem
 - **[pivotphp/core](https://github.com/PivotPHP/pivotphp-core)** - The main framework
 - **[pivotphp/cycle-orm](https://github.com/PivotPHP/pivotphp-cycle-orm)** - Robust ORM integration with type safety
+- **[Documentation](https://github.com/PivotPHP/pivotphp-core/blob/main/docs/index.md)** - Complete guides and API reference
+- **[Performance Report](https://github.com/PivotPHP/pivotphp-core/blob/main/docs/performance/PERFORMANCE_REPORT_v1.0.0.md)** - Detailed benchmarks
 
-### 💻 Quick Example
+### 💻 Quick Example - Zero Boilerplate
 
 ```php
 <?php
 // PivotPHP - The Evolutionary PHP Microframework
 use PivotPHP\Core\Core\Application;
-use PivotPHP\Core\Http\Psr15\Middleware\SecurityMiddleware;
 
 $app = new Application();
 
-// Add security middleware
-$app->use(new SecurityMiddleware());
+// That's it! Security middleware is already active by default
 
-// Create a simple API
-$app->get('/api/users/:id', function($req, $res) {
-    $res->json(['user_id' => $req->param('id')]);
-});
+// Create a blazing fast API
+$app->get('/api/users/:id', fn($req, $res) => 
+    $res->json(['user_id' => $req->param('id')])
+);
 
-// Start the server
-$app->run();
+// Advanced route validation with zero configuration
+$app->get('/posts/:year<\d{4}>/:month<\d{2}>/:slug', fn($req, $res) =>
+    $res->json($req->params())
+);
+
+$app->run(); // 13.4K requests/second performance
 ```
 
-### 📦 Installation
+> 🚀 **Real Performance**: While others promise, PivotPHP delivers. 13,374 requests/second with 0.07ms latency in real benchmarks.
+
+### 📦 Zero Configuration Installation
 ```bash
 composer require pivotphp/core
 ```
 <p align="center">
   <img src="https://img.shields.io/packagist/v/pivotphp/core?label=Latest%20Version&style=flat-square" alt="Latest Version" />
+  <img src="https://img.shields.io/packagist/dt/pivotphp/core?label=Downloads&style=flat-square" alt="Downloads" />
 </p>
 
 <div align="center">
-  <i>💡 PivotPHP is not just another framework - it's a philosophy of continuous improvement in PHP development.</i>
+  <i>💡 Start building immediately. No complex setup, no boilerplate. Just install and go.</i>
 </div>
 
 ## 📂 Project Portfolio
@@ -153,7 +239,7 @@ composer require pivotphp/core
 ### 🏆 Main Project
 | Project | Description | Technologies | Status |
 |---------|-------------|--------------|--------|
-| [**PivotPHP**](https://github.com/PivotPHP) | The Evolutionary PHP Microframework - Performance e simplicidade evoluindo juntas | PHP 8.1+, PSR Standards, ReactPHP | ![Active Development](https://img.shields.io/badge/Active_Development-brightgreen) |
+| [**PivotPHP**](https://github.com/PivotPHP) | The Evolutionary PHP Microframework - Evolution over Convention, Structure meets Speed | PHP 8.1+, PSR Standards, ReactPHP | ![Active Development](https://img.shields.io/badge/Active_Development-brightgreen) |
 
 ### 💻 Other Projects
 | Project | Description | Technologies | Status |
@@ -178,17 +264,19 @@ composer require pivotphp/core
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Most_Used_Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Most Used Language" />
-  <img src="https://img.shields.io/badge/Focus-Evolutionary_PHP-2E9EF7?style=for-the-badge" alt="Focus Area" />
+  <img src="https://img.shields.io/badge/Main_Language-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="Most Used Language" />
+  <img src="https://img.shields.io/badge/Focus-Evolution_over_Convention-2E9EF7?style=for-the-badge" alt="Focus Area" />
+  <img src="https://img.shields.io/badge/Philosophy-Structure_meets_Speed-FF6B6B?style=for-the-badge" alt="Philosophy" />
 </div>
 
-## 🏆 Recent Activity
+## 🏆 Current Focus
 
 <!--START_SECTION:activity-->
-- 🔨 Working on PivotPHP v1.0.1 release
-- 📝 Writing documentation for PivotPHP extensions
-- 🐛 Fixing issues and improving performance
-- 🤝 Reviewing pull requests from contributors
+- 🔨 Developing PivotPHP v1.0.2 with enhanced performance optimizations
+- 📝 Writing comprehensive documentation and tutorials
+- 🐛 Implementing community-requested features
+- 🤝 Reviewing pull requests and fostering community growth
+- 🧬 Evolving the framework based on real-world usage patterns
 <!--END_SECTION:activity-->
 
 ## 📫 Let's Connect!
@@ -210,6 +298,7 @@ I'm always interested in:
 - 🌐 Contributing to the open-source community
 - 💼 Freelance projects and consulting opportunities
 - 🧬 Growing the PivotPHP ecosystem
+- 💡 Discussing "Evolution over Convention" philosophy
 
 ### 🤝 How to Contribute to PivotPHP
 Check out our [contribution guide](https://github.com/PivotPHP/pivotphp-core/blob/main/CONTRIBUTING.md) and join the evolution!
@@ -217,7 +306,7 @@ Check out our [contribution guide](https://github.com/PivotPHP/pivotphp-core/blo
 ---
 
 <div align="center">
-  <i>"Evolution is not revolution - it's about making PHP development better, one feature at a time."</i>
+  <i>"Evolution over Convention - Where Structure meets Speed"</i>
   <br/>
   <br/>
   <code>composer require pivotphp/core</code>
