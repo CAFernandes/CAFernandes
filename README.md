@@ -44,8 +44,38 @@ I'm a passionate developer focused on creating modern, efficient solutions for t
 
 <div align="center">
   <a href="https://github.com/CAFernandes/pivotphp-core">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=CAFernandes&repo=pivotphp-core&theme=tokyonight" />
+    <img src="https://img.shields.io/badge/PivotPHP-Microframework_PHP_Moderno-2E9EF7?style=for-the-badge&logo=php&logoColor=white" alt="PivotPHP" />
   </a>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/CAFernandes/pivotphp-core?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/forks/CAFernandes/pivotphp-core?style=social" alt="Forks" />
+  <img src="https://img.shields.io/github/license/CAFernandes/pivotphp-core" alt="License" />
+  <img src="https://img.shields.io/packagist/v/pivotphp/core" alt="Version" />
+</p>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <strong>🚀 Ultra Rápido</strong><br/>
+        2.57M ops/sec
+      </td>
+      <td align="center">
+        <strong>🛡️ Seguro</strong><br/>
+        Proteção built-in
+      </td>
+      <td align="center">
+        <strong>📦 PSR Compliant</strong><br/>
+        Standards modernos
+      </td>
+      <td align="center">
+        <strong>🔌 Extensível</strong><br/>
+        Plugin system
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### ⚡ Performance Highlights
@@ -66,18 +96,60 @@ I'm a passionate developer focused on creating modern, efficient solutions for t
 - **[pivotphp/core](https://github.com/CAFernandes/pivotphp-core)** - The main framework
 - **[pivotphp/cycle-orm](https://github.com/CAFernandes/pivotphp-cycle-orm)** - Robust ORM integration with type safety
 
+### 💻 Quick Example
+
+```php
+<?php
+use PivotPHP\Core\Core\Application;
+use PivotPHP\Core\Http\Psr15\Middleware\SecurityMiddleware;
+
+$app = new Application();
+
+// Add security middleware
+$app->use(new SecurityMiddleware());
+
+// Create a simple API
+$app->get('/api/users/:id', function($req, $res) {
+    $res->json(['user_id' => $req->param('id')]);
+});
+
+// Start the server
+$app->run();
+```
+
+## 🔥 Other Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/CAFernandes/API-REST-Digimon">
+          <img src="https://img.shields.io/badge/API_REST_Digimon-JWT_Authentication-FF6B6B?style=for-the-badge" alt="API REST Digimon" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/CAFernandes/eleicoes-2022">
+          <img src="https://img.shields.io/badge/Eleições_2022-Data_Analysis-4ECDC4?style=for-the-badge" alt="Eleições 2022" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CAFernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <a href="https://github.com/CAFernandes">
+    <img src="https://img.shields.io/badge/GitHub-CAFernandes-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CAFernandes&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CAFernandes&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CAFernandes&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CAFernandes&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ## 🏆 Recent Activity
