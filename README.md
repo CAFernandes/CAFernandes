@@ -68,10 +68,6 @@ Acredito que frameworks devem se adaptar aos projetos, não o contrário - é a 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CAFernandes&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CAFernandes&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=CAFernandes&theme=tokyonight&hide_border=true)
 
 </div>
